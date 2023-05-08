@@ -1,5 +1,5 @@
 # velocyto.R
-RNA velocity estimation in R
+RNA velocity estimation in R, rewritten to exlude installation bugs from original velocyto repo
 
 ## System requirements
 velocyto.R can be installed on unix-flavored systems, and requires the following key elements:
